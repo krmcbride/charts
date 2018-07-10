@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  prometheus-mongodb-exporter:
+  - apiVersion: v1
+    appVersion: v0.10.0
+    created: 2018-07-09T23:07:10.137324607-07:00
+    description: A Helm chart for prometheus mongodb exporter
+    digest: bc3a21a7ef608092ea99bb74a7f85e8e6f37104ae1462481141aac11cb965f3f
+    home: https://github.com/percona/mongodb_exporter
+    name: prometheus-mongodb-exporter
+    sources:
+    - https://github.com/krmcbride/mongodb_exporter
+    urls:
+    - prometheus-mongodb-exporter-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-07-09T23:07:10.136874217-07:00
